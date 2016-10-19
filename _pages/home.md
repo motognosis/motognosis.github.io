@@ -4,8 +4,6 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: berlinpanorama1_cropped_650.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "/docs/quick-start-guide/"
   caption: 'TEST'
 excerpt: 'Welcome to the home of Motognosis. Located in the heart of Berlin, we develop motion assessment systems for recognizing and analyzing motor dysfunction in people with neurologic diseases.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8">Latest release v3.4.8</a></small><br /><br />'
 feature_row:
