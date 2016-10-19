@@ -6,8 +6,8 @@ header:
   overlay_image: mm-home-page-feature.jpg
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
-  caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8">Latest release v3.4.8</a></small><br /><br />'
+  caption: 'TEST'
+excerpt: 'Welcome to the home of Motognosis. Located in the heart of Berlin, we develop motion assessment systems for recognizing and analyzing motor dysfunction in people with neurologic diseases.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8">Latest release v3.4.8</a></small><br /><br />'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
