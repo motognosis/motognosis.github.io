@@ -21,19 +21,16 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Products"
     url: /docs/quick-start-guide/
 
-  - title: "About"
-    url: /about/
-
-  - title: "Sample Posts"
+  - title: "Technology"
     url: /year-archive/
 
-  - title: "Sample Collections"
-    url: /collection-archive/
-
-  - title: "Terms &amp; Privacy Policy"
+  - title: "About Us"
+    url: /about/
+ 
+  - title: "Contact"
     url: /terms/
 
 
