@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: berlinpanorama1_cropped_650.jpg
   caption: 
-excerpt: 'Welcome to the home of Motognosis. Located in the heart of Berlin, we develop motion assessment systems for recognizing and analyzing motor dysfunction in people with neurologic diseases.<br />'
+excerpt: 'Welcome to the home of Motognosis. Located in the heart of Berlin, we develop motion assessment systems for recognizing and analyzing motor dysfunction in people with neurologic diseases.<br /><br /><br /><br />'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
